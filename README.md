@@ -1,5 +1,5 @@
 # Wordle
-Wordle game implemented using React.js
+Wordle game implemented using React.js, [demo](https://wordle.martishin.com/) 
 
  <img src="https://github.com/tty-monkey/wordle/blob/main/screenshot.png" width="300" />
 
