@@ -1,7 +1,7 @@
 import { useEffect, useReducer, useState } from "react"
 import "./Wordle.css"
 
-const WORD_LIST_API_URL = "https://api.frontendexpert.io/api/fe/wordle-words"
+const WORD_LIST_API_URL = "/api"
 const WORD_LENGTH = 5
 const NUM_GUESSES = 6
 
